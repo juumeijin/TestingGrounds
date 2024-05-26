@@ -1,0 +1,38 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    {
+      "Comment": "Add Passives to each class at level 1 (non-Multiclass)",
+      "UUIDs": ["a2198ee9-ea4c-468e-b6b4-22b32d37806e",
+                "374c3aae-828b-44d8-b4e3-51ba802977dd",
+                "1dbce574-fff1-49be-b7da-704f9b73cad9",
+                "b499258c-2823-42f1-b8ca-0a5ee8455e11",
+                "dfb2fd83-9849-4c2d-be84-adedb81a867a",
+                "c091d27e-009b-4841-8bde-5e63e5ca8f4e",
+                "b60618d1-c262-42b5-9fdd-2c0f7aa5e5af",
+                "ad1084b1-b99f-6720-cfdd-cf82ad44345b",
+                "16f00e7f-12f6-4cff-b610-4ee738b02d62",
+                "42af9bda-9ac0-4564-920b-f9ca1588d6ee",
+                "a7767dc5-e6ab-4e05-96fd-f0424256121c",
+                "c201c736-3717-4c3c-9e36-2ae7387597a3"],
+      "Strings": [
+        {
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": ["TestToggle_1","TestToggle_2","TestToggle_3","TestToggle_4","TestToggle_5","TestToggle_6","TestToggle_7","TestToggle_8","TestToggle_9","TestToggle_10","TestToggle_11","TestToggle_12","TestToggle_13","TestToggle_14","TestToggle_15","TestToggle_16","TestToggle_17","TestToggle_18","TestToggle_19","TestToggle_20"]
+        }
+      ]
+    },
+    {
+      "Comment": "AcidMonk",
+      "UUID": "64e4f191-186b-4cc9-9e3d-9374d2670ec3",
+      "Strings": [
+        {
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": ["CombatStartAttack_AcidMonk","ExtraAttack_AcidMonkSpells"]
+        }
+      ]
+    }
+  ]
+}
